@@ -23,7 +23,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ## Autor
 
 Feito com ❤️ por Fabiano Rauzer 👋🏽 
-<a href=“https://www.linkedin.com/in/fabiano-rauzer/“>Entre em contato pelo linkedin</a> ou <a href=“https://www.instagram.com/rauzer.fabiano/“>pelo Insta!</a>
+[Entre em contato pelo linkedin](https://www.linkedin.com/in/fabiano-rauzer/) ou [Pelo insta!](https://www.instagram.com/rauzer.fabiano/)
 
 ### 🎲 Rodando o projeto
 
