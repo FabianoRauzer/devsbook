@@ -1,33 +1,47 @@
-## Instalação
-Você pode clonar este repositório OU baixar o .zip
+## Projeto - Rede social Devbook em MVC
 
-Ao descompactar, é necessário rodar o **composer** pra instalar as dependências e gerar o *autoload*.
+<p align="center">🚀 Criação de uma rede social para o curso da b7web, com foco em PHP e MySQL, utilizando a arquitetura MVC. </p>
+<h4 align="center"> 
+	🚧  Devsbook 🚀 Em construção...  🚧
+</h4>
 
-Vá até a pasta do projeto, pelo *prompt/terminal* e execute:
-> composer install
+### Features
 
-Depois é só aguardar.
+- [x] Criação do banco de dados
+- [x] Configuração do projeto - composer install
+- [ ] Criação da tela de login
+- [ ] Criação da tela de usuário
+- [ ] Criação da tela de fotos
+- [ ] Criação da tela de configurações
 
-## Configuração
-Todos os arquivos de **configuração** e aplicação estão dentro da pasta *src*.
 
-As configurações de Banco de Dados e URL estão no arquivo *src/Config.php*
+### Pré-requisitos
 
-É importante configurar corretamente a constante *BASE_DIR*:
-> const BASE_DIR = '/**PastaDoProjeto**/public';
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [PHP 7.4+](https://www.php.net/downloads.php), [Composer](https://getcomposer.org/download/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-## Uso
-Você deve acessar a pasta *public* do projeto.
+### 🎲 Rodando o Back End (servidor)
 
-O ideal é criar um ***alias*** específico no servidor que direcione diretamente para a pasta *public*.
+```bash
+# Clone este repositório
+$ git clone <https://github.com/FabianoRauzer/devsbook>
 
-## Modelo de MODEL
-```php
-<?php
-namespace src\models;
-use \core\Model;
+# Acesse a pasta do projeto no terminal/cmd
+$ cd /seuLocalAteAPasta/devsbook
 
-class Usuario extends Model {
+# Rode o comando composer
+$ composer install
 
-}
-```
+### Autor
+---
+
+<a href="https://github.com/FabianoRauzer">
+ <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Fabiano Rauzer</b></sub></a> <a href="https://github.com/FabianoRauzer" title="Devsbook">🚀</a>
+
+
+Feito com ❤️ por Fabiano Rauzer 👋🏽 Entre em contato!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiano-rauzer/)](https://www.linkedin.com/in/fabiano-rauzer/) 
