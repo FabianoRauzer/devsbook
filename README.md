@@ -20,6 +20,10 @@
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [PHP 7.4+](https://www.php.net/downloads.php), [Composer](https://getcomposer.org/download/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+## Autor
+
+Feito com ❤️ por Fabiano Rauzer 👋🏽 
+<a href=“https://www.linkedin.com/in/fabiano-rauzer/“>Entre em contato pelo linkedin</a> ou <a href=“https://www.instagram.com/rauzer.fabiano/“>pelo Insta!</a>
 
 ### 🎲 Rodando o projeto
 
@@ -33,7 +37,3 @@ $ cd /seuLocalAteAPasta/devsbook
 # Rode o comando composer
 $ composer install
 
-### Autor
-
-Feito com ❤️ por Fabiano Rauzer 👋🏽 
-<a href=“https://www.linkedin.com/in/fabiano-rauzer/“>Entre em contato pelo linkedin</a> ou <a href=“https://www.instagram.com/rauzer.fabiano/“>pelo Insta!</a>
