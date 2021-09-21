@@ -35,5 +35,5 @@ $ composer install
 
 ### Autor
 
-Feito com ❤️ por Fabiano Rauzer 👋🏽 [Entre em contato via linkedin](https://www.linkedin.com/in/fabiano-rauzer/) ou [pelo insta](https://www.instagram.com/rauzer.fabiano/)
-
+Feito com ❤️ por Fabiano Rauzer 👋🏽 
+<a href=“https://www.linkedin.com/in/fabiano-rauzer/“>Entre em contato pelo linkedin</a> ou <a href=“https://www.instagram.com/rauzer.fabiano/“>pelo Insta!</a>
