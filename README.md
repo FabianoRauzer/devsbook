@@ -12,6 +12,7 @@
 - [x] Criação da tela de login
 - [x] Criação da tela de cadastro
 - [x] Criação da tela de usuário
+- [ ] Criação do feed de editor
 - [ ] Criação da tela de fotos
 - [ ] Criação da tela de configurações
 
