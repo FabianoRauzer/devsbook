@@ -8,8 +8,9 @@
 ### Features
 
 - [x] Criação do banco de dados
-- [x] Configuração do projeto - composer install
-- [ ] Criação da tela de login
+- [x] Configuração inicial do projeto 
+- [x] Criação da tela de login
+- [x] Aplicação de cadastro
 - [ ] Criação da tela de usuário
 - [ ] Criação da tela de fotos
 - [ ] Criação da tela de configurações
