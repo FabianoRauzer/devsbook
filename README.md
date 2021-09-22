@@ -41,6 +41,6 @@ $ composer install
 
 Fabiano Rauzer 👋🏽 
 
-[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiano-rauzer/)](https://www.linkedin.com/in/fabiano-rauzer/) 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rauzerfabiano@yahoo.com.br)](mailto:rauzerfabiano@yahoo.com.br)
+[![Linkedin Badge](https://img.shields.io/badge/-Fabiano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiano-rauzer/)](https://www.linkedin.com/in/fabiano-rauzer/) 
+[![Yahoo Badge](https://img.shields.io/badge/-rauzerfabiano@yahoo.com.br-c14438?style=flat-square&logo=Yahoo&logoColor=white&link=mailto:rauzerfabiano@yahoo.com.br)](mailto:rauzerfabiano@yahoo.com.br)
 
