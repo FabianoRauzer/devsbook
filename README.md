@@ -11,7 +11,7 @@
 - [x] Configuração inicial do projeto 
 - [x] Criação da tela de login
 - [x] Criação da tela de cadastro
-- [ ] Criação da tela de usuário
+- [x] Criação da tela de usuário
 - [ ] Criação da tela de fotos
 - [ ] Criação da tela de configurações
 
