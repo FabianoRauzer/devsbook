@@ -77,20 +77,20 @@
                     </div>
                     <div class="box-body friend-list">
 
-                    <?php for($q=0;$q<9;$q++):?>
-                        <?php if(isset($user->following[$q])): ?>
-                            <div class="friend-icon">
-                                <a href="<?= $base; ?>/perfil/<?= $follower->id; ?>">
-                                    <div class="friend-icon-avatar">
-                                        <img src="<?= $base; ?>/media/avatars/<?= $follower->avatar; ?>" />
-                                    </div>
-                                    <div class="friend-icon-name">
-                                        <?= $follower->name; ?>
-                                    </div>
-                                </a>
-                            </div>
-                        <?php endif?>
-                    <?php endfor?>
+                        <?php for ($q = 0; $q < 9; $q++) : ?>
+                            <?php if (isset($user->following[$q])) : ?>
+                                <div class="friend-icon">
+                                    <a href="<?= $base; ?>/perfil/<?= $follower->id; ?>">
+                                        <div class="friend-icon-avatar">
+                                            <img src="<?= $base; ?>/media/avatars/<?= $follower->avatar; ?>" />
+                                        </div>
+                                        <div class="friend-icon-name">
+                                            <?= $follower->name; ?>
+                                        </div>
+                                    </a>
+                                </div>
+                            <?php endif ?>
+                        <?php endfor ?>
                     </div>
                 </div>
             </div>

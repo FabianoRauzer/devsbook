@@ -12,7 +12,7 @@
     <header>
         <div class="container">
             <div class="logo">
-                <a href=""><img src="<?=$base; ?>/assets/images/devsbook_logo.png" /></a>
+            <a href="<?= $base; ?>/"><img src="<?=$base; ?>/assets/images/devsbook_logo.png" /></a>
             </div>
             <div class="head-side">
                 <div class="head-side-left">

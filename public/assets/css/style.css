@@ -395,7 +395,7 @@ header .head-side {
     display: inline-block;
     padding: 7px 10px;
     border: 1px solid #CCC;
-    margin: 5x;
+    margin: 5;
     text-decoration: none;
     color: black;
 }
@@ -407,6 +407,11 @@ header .head-side {
 .feed-pagination a.active{
     background-color: #FFF;
 }
+
+a {
+    text-decoration: none;
+}
+
 
 @media (max-width: 992px) {
     header .head-side-right {
